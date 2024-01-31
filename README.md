@@ -2,7 +2,7 @@
 
 Some ideas of how sticky sections can be animated while exiting the viewport.
 
-![Image Title](https://generative-placeholders.glitch.me/image?width=800&height=600")
+![Sticky Sections](https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/01/stickycardnewfeatured.gif?x36933)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=75532)
 
